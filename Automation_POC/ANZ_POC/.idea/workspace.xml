@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="96e3e0e1-df56-4e21-9248-de816fed38fd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ANZ/AnzCalculator/models/ConfigModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ANZ/AnzCalculator/pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ANZ/AnzCalculator/pages/CalculatorPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ANZ/AnzCalculator/stepDefinition/CalculatorStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ANZ/AnzCalculator/tests/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/config/SeleniumConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/data/AddOrderData.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/data/CaseDetailsData.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/data/LoginData.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/data/MyAccountData.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/data/RegisterData.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/data/RetainerData.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/data/URLDetailsData.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/models/ConfigModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/models/DatabaseModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/models/LoginModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/models/RegisterProviderStepOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/models/RegisterProviderStepTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/pages/AddOrderPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/pages/BasePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/pages/CaseDetailsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/pages/ImpersonatePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/pages/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/pages/LostPaswordPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/pages/ManageCollaboratorCasesPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/pages/ManageOrderPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/pages/MyAccountPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/pages/MyCollaboratorViewPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/pages/OrderRetainerPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/pages/RegisterLinkPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/pages/RegisterProviderPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/pages/ResetLostPaswordPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/tests/AddOrderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/tests/CaseDetailsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/tests/ImpersonateTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/tests/LoginTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/tests/LostPasswordTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/tests/ManageCollaboratorCasesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/tests/ManageOrderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/tests/MyAccountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/tests/MyCollaboratorViewTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/tests/OrderRetainerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/tests/RegisterLinkTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/tests/RegisterProviderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/tests/ResetLostPasswordTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/utils/Database.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/utils/HttpRequests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/clearcorrect/drportal/utils/Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Images/445209_1_LowerJaw.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Images/445209_1_Mandibular.stl.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Images/445209_1_Maxillary.stl.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Images/445209_1_UpperJaw.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Images/LowerJawScan.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Images/Photos_30MB.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Images/UpperJawScan.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/config.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/database.yaml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportTestResults" outputFolder="$USER_HOME$/Downloads/Dr_Portal_CaseTermExtension_Regression-Results" userTempatePath="" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ANZ_POC" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1y7MDDRtPgvKoBGYv7um0dSc2wa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ClearCorrect/application-test-e2e_drportal" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Gradle.RunnerTest">
+    <configuration name="Scenario: Verify the error message when other fields are empty and only living expenses is entered" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Calculator.feature" />
+      <option name="GLUE" value="com.ANZ.AnzCalculator.stepDefinition" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="ANZ_POC.test" />
+      <option name="NAME_FILTER" value="^Verify the error message when other fields are empty and only living expenses is entered$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Verify the error message when other fields are empty and only living expenses is entered$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify the error message when other fields are empty and only living expenses is entered" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.ANZ.AnzCalculator.tests.CalculatorTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CalculatorTest.GivenCalculatorPage_ErrorMessage" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.ANZ.AnzCalculator.tests.CalculatorTest.GivenCalculatorPage_ErrorMessage&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CalculatorTest.jshsjhd" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.ANZ.AnzCalculator.tests.CalculatorTest.jshsjhd&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="RunnerTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.ANZ.AnzCalculator.run.RunnerTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.RunnerTest" />
+        <item itemvalue="Gradle.CalculatorTest" />
+        <item itemvalue="Gradle.CalculatorTest.GivenCalculatorPage_ErrorMessage" />
+        <item itemvalue="Gradle.CalculatorTest.jshsjhd" />
+        <item itemvalue="Cucumber Java.Scenario: Verify the error message when other fields are empty and only living expenses is entered" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96e3e0e1-df56-4e21-9248-de816fed38fd" name="Default Changelist" comment="" />
+      <created>1631598057647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631598057647</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="GradleRunConfiguration">
+        <watch expression="len % 2 " />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
